@@ -1,0 +1,7 @@
+# RoamCat has moved / RoamCat 已迁移
+
+This file now lives at https://roamcat-dev.github.io/roamcat/llms.txt
+本文件的新地址：https://roamcat-dev.github.io/roamcat/llms.txt
+
+Website / 落地页: https://roamcat-dev.github.io/roamcat/
+Source code / 源码: https://github.com/roamcat-dev/roamcat
